@@ -6,10 +6,10 @@ O objetivo desse projeto é ensinar a como você pode fazer em sua casa um dispo
 Na pasta Easyeda estão os arquivos que você pode usar para importar para dentro do Easyeda. Com isso, você poderá alterar a PCB e o esquemático da forma como tu quiser.
 O arquivo pdf está o esquemático da versão que está sendo utilizado no vídeo e poderá suar livremente também.
 
-A lista dos componentes são:
+## A lista dos componentes são:
 
-5 x Diodo 1N5819 
-6 x Borne 2 polos - KF-301 2T
-1 X Módulo carregador TP4056 (Precisa ser com entrada USB e 4 pinos de saída (2 p/ bateria e 2/ OUT)
-1 x Módulo LM2596 (Opcional)
-2 x Header macho de 2.54mm (Opcional)
+- 5 x Diodo 1N5819 
+- 6 x Borne 2 polos - KF-301 2T
+- 1 X Módulo carregador TP4056 (Precisa ser com entrada USB e 4 pinos de saída (2 p/ bateria e 2/ OUT)
+- 1 x Módulo LM2596 (Opcional)
+- 2 x Header macho de 2.54mm (Opcional)
